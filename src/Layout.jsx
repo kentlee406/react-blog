@@ -4,7 +4,7 @@ function Layout() {
     <div>
       <nav>
         導覽
-        <NavLink to="">首頁</NavLink>_<NavLink to="/blog">部落格列表</NavLink>
+        <NavLink to="">首頁</NavLink>_<NavLink to="/blogs">部落格列表</NavLink>
       </nav>
       <Outlet />
       <footer>表尾</footer>
